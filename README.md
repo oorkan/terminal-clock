@@ -1,7 +1,11 @@
 **Description**
+
 A simple binary clock running in your terminal.
 
+&nbsp;
+
 **Installation**
+
 ```bash
   chmod +x bitime.py
 ```
@@ -14,5 +18,8 @@ A simple binary clock running in your terminal.
   bitime # show the clock
 ```
 
+&nbsp;
+
 **Requirements**
+
 Requires Python>=3.8. Tested only under Debian.
