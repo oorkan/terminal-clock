@@ -1,3 +1,5 @@
+![bitime.png](https://gist.githubusercontent.com/oorkan/b03c8b68a0807d3ea4e2e398df63adbb/raw/6a1a68b73466b3cb9093df82835b9fe51ec7ff9a/bitime.png)
+
 **Description**
 
 A simple binary clock running in your terminal.
