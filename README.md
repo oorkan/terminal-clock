@@ -1,7 +1,7 @@
 **Description**
 A simple binary clock running in your terminal.
 
-**How to use**
+**Installation**
 ```bash
   chmod +x bitime.py
 ```
